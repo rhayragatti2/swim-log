@@ -1,0 +1,15 @@
+{
+  "short_name": "SwimLog",
+  "name": "SwimLog - Diário de Natação",
+  "icons": [
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#2563eb",
+  "background_color": "#ffffff"
+}
